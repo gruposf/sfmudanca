@@ -1,0 +1,18 @@
+[submodule "empresa-de-mudanca"]
+	path = empresa-de-mudanca
+	url = https://github.com/gruposf/empresa-de-mudanca.git
+[submodule "servicos-de-mudancas"]
+	path = servicos-de-mudancas
+	url = https://github.com/gruposf/servicos-de-mudancas.git
+[submodule "orcamentos"]
+	path = orcamentos
+	url = https://github.com/gruposf/orcamentos.git
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/gruposf/portfolio.git
+[submodule "contactos"]
+	path = contactos
+	url = https://github.com/gruposf/contactos.git
+[submodule "loja"]
+	path = loja
+	url = https://github.com/gruposf/loja.git
